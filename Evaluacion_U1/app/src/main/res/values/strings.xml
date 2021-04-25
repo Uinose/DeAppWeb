@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Evaluacion_U1</string>
+    <string name="textlogin">Login</string>
+    <string name="textuser">User</string>
+    <string name="textname">Marisol Realivazquez</string>
+    <string name="btnentrar">Entrar</string>
+</resources>
